@@ -1,0 +1,5 @@
+This is significant. The Anthropic team managed to identify the tokens that made a difference for Claude to understand. 
+Previously LLMs are all black boxes - we don't know which tokens made a difference to the training. So the approach has been "make the models bigger". 
+There is computing power and energy consumption implications to that approach. Inevitably there will be period of diminishing return. 
+This breakthrough means LLMs will be smarter and more efficient. This is great news. 
+Full research here: https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
